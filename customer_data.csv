@@ -1,0 +1,11 @@
+Name,Age,Gender,Purchase_Amount
+John,25.0,Male,1000
+Alice,,Female,1500
+Bob,35.0,Male,800
+Emma,28.0,Female,2000
+Alex,,Male,1200
+Sarah,42.0,Female,1800
+Mike,50.0,Male,2500
+Lisa,31.0,Female,1000
+David,60.0,Male,3000
+Olivia,55.0,Female,2200
