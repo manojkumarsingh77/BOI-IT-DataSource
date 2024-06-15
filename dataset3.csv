@@ -1,0 +1,6 @@
+Name,Age,City,Salary
+John,25.0,New York,50000.0
+Alice,,London,60000.0
+Bob,35.0,,55000.0
+Emma,28.0,Paris,
+Alex,,London,75000.0
